@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Doctors Appointment",
+      "day": "jakastam data",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Meeting at School",
+      "day": "jakistam dzien",
+      "reminder": false
+    },
+    {
+      "text": "School Shooting",
+      "day": "asap",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
